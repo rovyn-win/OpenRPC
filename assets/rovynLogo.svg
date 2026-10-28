@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Rovyn terminal r underscore favicon">
+  <defs>
+    <filter id="glow" x="-55%" y="-55%" width="210%" height="210%">
+      <feGaussianBlur stdDeviation="3.1"/>
+    </filter>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="#020400"/>
+  <g fill="#60DA00" opacity="0.52" filter="url(#glow)">
+    <path d="M13 18h8v4h2v-4h11v6h6v9h-8v-8H21v22h-8z"/>
+    <rect x="40" y="43" width="13" height="5"/>
+  </g>
+  <g fill="#62D90A" shape-rendering="crispEdges">
+    <path d="M13 18h8v4h2v-4h11v6h6v9h-8v-8H21v22h-8z"/>
+    <rect x="40" y="43" width="13" height="5"/>
+  </g>
+</svg>
